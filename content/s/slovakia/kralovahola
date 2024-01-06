@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Other</title>
+	<title>Kráľova hoľa</title>
 </head>
 
 <body style="margin:0; font-family:monospace;">
@@ -95,42 +95,26 @@
 
 <!--The navbar for the site-->
 <div style="margin:auto; text-align: center;"><b>
-	<p style="display:inline;">| <a href="../../index.html" style="text-decoration:none; color:black;">Home</a> |</p>
-	<p style="display:inline;">| <a href="../../photos.html" style="text-decoration:none; color:black;">Photos</a> |</p>
-	<p style="display:inline;">| <a href="../../other.html" style="text-decoration:none; color:black;">Other</a> |</p>
-	<p style="display:inline;">| <a href="../../about.html" style="text-decoration:none; color:black;">About Me</a> |</p>
+	<p style="display:inline;">| <a href="../../../index.html" style="text-decoration:none; color:black;">Home</a> |</p>
+	<p style="display:inline;">| <a href="../../../photos.html" style="text-decoration:none; color:black;">Photos</a> |</p>
+	<p style="display:inline;">| <a href="../../../other.html" style="text-decoration:none; color:black;">Other</a> |</p>
+	<p style="display:inline;">| <a href="../../../about.html" style="text-decoration:none; color:black;">About Me</a> |</p>
 </div></b>
 
 <br><br>
 
 <!--The main content of the page-->
-<div style="width:55vw; margin:auto; text-align: center;">
-<p>In 2023, I hiked across Slovakia from North to South. I went through many national parks, stayed at many villages and saw some beautiful nature.</p>
-<p>I have listed below the different parks I visited.</p>
 
-<ul style="text-align:left;">
-    <li><a>Tatranský Národný Park</a></li>
-    <li><a>Národný Park Nízke Tatry</a></li>
-    <li><a>Národný Park Muránska Planina</a></li>
-    <li><a>Národný Park Slovenský Kras</a></li>
-</ul>
 
-<p>And all the Places I visited.</p>
+<div style="width:55vw; margin:auto; text-align: left;">
 
-<ul style="text-align:left;">
-  <li><a href="slovakia/tatranskastrba.html">Tatranská Štrba</a></li>
-  <li><a>Štrba</a></li>
-  <li><a>Šuňava</a></li>
-  <li><a>Liptovská Teplička</a></li>
-  <li><a href="slovakia/kralovahola">Kráľova hoľa</a></li>
-  <li><a>Šumiac</a></li>
-  <li><a>Muráňsky hrad</a></li>
-  <li><a>Muráň</a></li>
-  <li><a>Revúca</a></li>
-  <li><a>Jelšava</a></li>
-  <li><a>Plešivec</a></li>
-  <li><a>Aggtelek (Hungary)</a></li>
-</ul>
+<div style="margin:auto;text-align: center;">
+  <a href="../slovakia.html">Back</a>
+
+  <p><b>| Kráľova hoľa |</b></p>
+</div>
+
+<p>Tatranská Štrba is a town situated in between the Tatras, and Štrba (funny how that works!)</p>
 
 
 </div>
